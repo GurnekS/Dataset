@@ -7,7 +7,7 @@ CSS file for dataset assigment
     width: 100vw;
     height: 100vh;
     background-color: beige;
-    background-image: url("../gamespic.webp");
+    background-image: url("gamespic.webp");
     background-size: cover;
     display: flex;
     align-items: center;
